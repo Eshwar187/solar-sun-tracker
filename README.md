@@ -113,6 +113,8 @@ This project successfully demonstrates an automated solar tracking system using 
 
 ## 11. Future Scope
 
+<img width="895" height="740" alt="image" src="https://github.com/user-attachments/assets/b1600735-e02a-482b-8171-5b90cb597299" />
+
 * Dual-axis tracking system
 * IoT integration for remote monitoring
 * Battery storage system integration
